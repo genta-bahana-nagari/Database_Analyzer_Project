@@ -18,8 +18,8 @@ Sebelum menjalankan aplikasi, pastikan Anda memiliki:
 
 1. **Clone repository ini** (jika tersedia di GitHub):
    ```bash
-   git clone https://github.com/username/database-analyzer.git
-   cd database-analyzer
+   git clone https://github.com/genta-bahana-nagari/Database_Analyzer_Project.git
+   cd Database_Analyzer_Project   #cek nama direktori (folder) setelah clone
    ```
 2. **Buat virtual environment (opsional tetapi disarankan):**
    ```bash
@@ -33,7 +33,7 @@ Sebelum menjalankan aplikasi, pastikan Anda memiliki:
    ```
 4. **Jalankan aplikasi Streamlit:**
    ```bash
-   streamlit run main.py
+   streamlit run database-analyzer.py
    ```
 
 ## 🎯 **Cara Penggunaan**
